@@ -1,1 +1,76 @@
-
+FeatureName,FeatureType
+Lot Area,Continuous
+BsmtFin SF 1,Continuous
+BsmtFin SF 2,Continuous
+Bsmt Unf SF,Continuous
+Total Bsmt SF,Continuous
+1st Flr SF,Continuous
+2nd Flr SF,Continuous
+Low Qual Fin SF,Continuous
+Gr Liv Area,Continuous
+Garage Area,Continuous
+Wood Deck SF,Continuous
+Open Porch SF,Continuous
+Enclosed Porch,Continuous
+3Ssn Porch,Continuous
+Screen Porch,Continuous
+Pool Area,Continuous
+Misc Val,Continuous
+Id,Discrete
+Year Built,Discrete
+Year Remod/Add,Discrete
+Bsmt Full Bath,Discrete
+Bsmt Half Bath,Discrete
+Full Bath,Discrete
+Half Bath,Discrete
+Fireplaces,Discrete
+Garage Cars,Discrete
+Mo Sold,Discrete
+Yr Sold,Discrete
+TotRms AbvGrd_new,Discrete
+MS SubClass,Nominal
+MS Zoning,Nominal
+Street,Nominal
+Alley,Nominal
+Land Contour,Nominal
+Lot Config,Nominal
+Neighborhood,Nominal
+Condition 1,Nominal
+Condition 2,Nominal
+Bldg Type,Nominal
+House Style,Nominal
+Roof Style,Nominal
+Roof Matl,Nominal
+Exterior 1st,Nominal
+Exterior 2nd,Nominal
+Mas Vnr Type,Nominal
+Foundation,Nominal
+Heating,Nominal
+Central Air,Nominal
+Garage Type,Nominal
+Misc Feature,Nominal
+Sale Type,Nominal
+Lot Shape,Ordinal
+Utilities,Ordinal
+Land Slope,Ordinal
+Overall Qual,Ordinal
+Overall Cond,Ordinal
+Exter Qual,Ordinal
+Exter Cond,Ordinal
+Bsmt Qual,Ordinal
+Bsmt Cond,Ordinal
+Bsmt Exposure,Ordinal
+BsmtFin Type 1,Ordinal
+BsmtFin Type 2,Ordinal
+Heating QC,Ordinal
+Electrical,Ordinal
+Kitchen Qual,Ordinal
+Functional,Ordinal
+Fireplace Qu,Ordinal
+Garage Finish,Ordinal
+Garage Qual,Ordinal
+Garage Cond,Ordinal
+Paved Drive,Ordinal
+Pool QC,Ordinal
+Fence,Ordinal
+SalePrice,Target
