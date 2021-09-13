@@ -1,1 +1,70 @@
-
+FeatureName,FeatureType
+Id,Discrete
+MS SubClass,Nominal
+MS Zoning,Nominal
+Lot Area,Continuous
+Street,Nominal
+Alley,Nominal
+Lot Shape,Ordinal
+Land Contour,Nominal
+Utilities,Ordinal
+Lot Config,Nominal
+Land Slope,Ordinal
+Neighborhood,Nominal
+Condition 1,Nominal
+Condition 2,Nominal
+House Style,Nominal
+Overall Qual,Ordinal
+Overall Cond,Ordinal
+Year Built,Discrete
+Year Remod/Add,Discrete
+Roof Style,Nominal
+Roof Matl,Nominal
+Exterior 1st,Nominal
+Exterior 2nd,Nominal
+Mas Vnr Type,Nominal
+Exter Qual,Ordinal
+Exter Cond,Ordinal
+Foundation,Nominal
+Bsmt Qual,Ordinal
+Bsmt Cond,Ordinal
+Bsmt Exposure,Ordinal
+BsmtFin Type 1,Ordinal
+BsmtFin SF 1,Continuous
+BsmtFin Type 2,Ordinal
+BsmtFin SF 2,Continuous
+Bsmt Unf SF,Continuous
+Heating,Nominal
+Heating QC,Ordinal
+Central Air,Nominal
+Electrical,Ordinal
+Low Qual Fin SF,Continuous
+Kitchen Qual,Ordinal
+Functional,Ordinal
+Fireplace Qu,Ordinal
+Garage Type,Nominal
+Garage Finish,Ordinal
+Garage Cars,Discrete
+Garage Qual,Ordinal
+Garage Cond,Ordinal
+Paved Drive,Ordinal
+Pool QC,Ordinal
+Fence,Ordinal
+Misc Feature,Nominal
+Misc Val,Continuous
+Mo Sold,Discrete
+Yr Sold,Discrete
+Sale Type,Nominal
+SalePrice,Target
+TotRms AbvGrd_new,Discrete
+Total SF,Continuous
+Total Porch SF,Continuous
+Total Bath,Discrete
+Age of Built,Continuous
+has 2nd Flr,Discrete
+has Bsmt,Discrete
+has Fireplace,Discrete
+has Garage,Discrete
+has Pool,Discrete
+has Porch,Discrete
+SalePrice_log,Nominal

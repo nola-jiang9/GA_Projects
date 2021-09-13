@@ -1,0 +1,9 @@
+Coefficient Values,features
+0.83,Street
+0.8256071696908085,Overall Qual
+0.8135750195875255,Total SF
+0.6674394423099176,Garage Cars
+0.6613079504273219,Total Bath
+0.64,MS Zoning
+0.6249882403797858,Age of Built
+0.6248201970828403,Year Built

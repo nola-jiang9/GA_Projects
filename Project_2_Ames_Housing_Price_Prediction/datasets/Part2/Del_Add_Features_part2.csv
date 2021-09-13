@@ -1,0 +1,36 @@
+FeatureName,Del/Add
+PID,Deleted
+Garage Yr Blt,Deleted
+Lot Frontage,Deleted
+Mas Vnr Area,Deleted
+TotRms AbvGrd,Deleted
+Bedroom AbvGr,Deleted
+Kitchen AbvGr,Deleted
+3Ssn Porch,Deleted
+Enclosed Porch,Deleted
+Open Porch SF,Deleted
+Wood Deck SF,Deleted
+Screen Porch,Deleted
+Full Bath,Deleted
+Half Bath,Deleted
+Bsmt Full Bath,Deleted
+Bsmt Half Bath,Deleted
+Total Bsmt SF,Deleted
+1st Flr SF,Deleted
+2nd Flr SF,Deleted
+Gr Liv Area,Deleted
+Pool Area,Deleted
+Garage Area,Deleted
+Fireplaces,Deleted
+Bldg Type,Deleted
+TotRms AbvGrd_new,Added
+Total SF,Added
+Total Porch SF,Added
+Total Bath,Added
+Age of Built,Added
+has 2nd Flr,Added
+has Bsmt,Added
+has Fireplace,Added
+has Garage,Added
+has Pool,Added
+has Porch,Added
