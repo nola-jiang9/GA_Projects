@@ -4,9 +4,9 @@
 
 This repository contains all of the projects completed during the Data Science Immersive Flex course at General Assembly.
 
-Projects|Description|
-|---|---
-Project 1: SAT & ACT Analysis| h.....
-Project 2: Ames Housing Price Prediction|deploy the model...
-Project 3: SubReddits-Classification |....
-Project 4: West Nile Virus Prediction| ...
+Projects
+|---
+Project 1: SAT & ACT Analysis
+Project 2: Ames Housing Price Prediction
+Project 3: SubReddits-Classification
+Project 4: West Nile Virus Prediction
